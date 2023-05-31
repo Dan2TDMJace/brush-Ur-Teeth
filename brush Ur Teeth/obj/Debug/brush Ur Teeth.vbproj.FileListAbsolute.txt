@@ -1,0 +1,12 @@
+C:\Users\khens\source\repos\brush Ur Teeth\brush Ur Teeth\bin\Debug\brush Ur Teeth.exe.config
+C:\Users\khens\source\repos\brush Ur Teeth\brush Ur Teeth\bin\Debug\brush Ur Teeth.exe
+C:\Users\khens\source\repos\brush Ur Teeth\brush Ur Teeth\bin\Debug\brush Ur Teeth.pdb
+C:\Users\khens\source\repos\brush Ur Teeth\brush Ur Teeth\bin\Debug\brush Ur Teeth.xml
+C:\Users\khens\source\repos\brush Ur Teeth\brush Ur Teeth\obj\Debug\brush Ur Teeth.vbproj.AssemblyReference.cache
+C:\Users\khens\source\repos\brush Ur Teeth\brush Ur Teeth\obj\Debug\brush_Ur_Teeth.Form1.resources
+C:\Users\khens\source\repos\brush Ur Teeth\brush Ur Teeth\obj\Debug\brush_Ur_Teeth.Resources.resources
+C:\Users\khens\source\repos\brush Ur Teeth\brush Ur Teeth\obj\Debug\brush Ur Teeth.vbproj.GenerateResource.cache
+C:\Users\khens\source\repos\brush Ur Teeth\brush Ur Teeth\obj\Debug\brush Ur Teeth.vbproj.CoreCompileInputs.cache
+C:\Users\khens\source\repos\brush Ur Teeth\brush Ur Teeth\obj\Debug\brush Ur Teeth.exe
+C:\Users\khens\source\repos\brush Ur Teeth\brush Ur Teeth\obj\Debug\brush Ur Teeth.xml
+C:\Users\khens\source\repos\brush Ur Teeth\brush Ur Teeth\obj\Debug\brush Ur Teeth.pdb
